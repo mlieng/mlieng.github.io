@@ -49,16 +49,76 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
-        {% if site.affiliation %}
+        {% if site.affiliatio %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
-        {% if site.email %}
+        {% if site.email2 %}
         <email>{{ site.email }}</email>
         {% endif %}
+        <br>
+
+        <div style="
+          text-align: left; 
+          margin-left: 30px">  
+
+        {% if site.city %}
+        <br>
+        <i class="fa-solid fa-location-dot"></i>
+        {{ site.city }}
+        {% endif %}     
+
+        {% if site.affiliation %}
+        <br>
+        <i class="fa-solid fa-hospital"></i></i>
+        {{ site.affiliation }}
+        {% endif %}     
+        {% if site.university %}
+        <br>
+        <i class="fa-solid fa-building-columns"></i>
+        {{ site.university }}
+        {% endif %} 
+        </div>
+
 
         <br>
         <br>
+
+        <br>
+        <br>
+
+
+
+        <div class="other-websites">    
+        <div style="text-align: left; margin-left: 30px">  
+
+        {% if site.email %}
+        <br>
+        <a style="margin: 0 5px 0 0" href="{{ site.email}}">
+          <i class="fa-solid fa-envelope"></i>  {{site.email}}
+        </a>  
+        {% endif %}
+
+        {% if site.pubmed %}
+        <br>
+        <a style="margin: 0 5px 0 0" href="{{ site.pubmed }}">
+          <img src="/assets/img/pubmed_icon.png" style="font-size:1.2rem"></i> pubmed
+        </a>  
+        {% endif %}
+
+        {% if site.orcid %}
+        <br>
+        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}">
+          <i class="fa-brands fa-orcid" style="font-size:1.2rem"></i> ORCID
+        </a>  
+        {% endif %}
+
+        </div></div>
+
+
+
+
+
         <div class="social-icons">
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
@@ -86,7 +146,7 @@
 
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
-          <i class="fab fa-x-twitter"></i>
+          <i class="fas fa-wrench"></i>
         </a>
         {% endif %}
         </div>
@@ -100,7 +160,7 @@
       <br>
 
       {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+      <p><small>Powered by Jekyll and Yao Yao Liu's Version of the  <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener"> Minimal Light</a> theme.</small></p>
       {% endif %}
 
       </section>

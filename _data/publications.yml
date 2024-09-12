@@ -1,12 +1,12 @@
 main:
 
 
-  - title: "Teleophthalmology provides earlier eye care access for patients with newly-diagnosed diabetes"
+  - title: Teleophthalmology provides earlier eye care access for patients with newly-diagnosed diabetes
     authors: <strong>Lieng MK</strong>, Emami-Naeini P, Lee SC, Alber S, Yiu G.
-    conference_short: Heliyon
-    conference: Heliyon (Subsidiary of Cell), 2024
+    journal_short: Heliyon
+    journal: Heliyon (Subsidiary of Cell), 2024
     pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10878910/pdf/main.pdf
-    page: https://pubmed.ncbi.nlm.nih.gov/38384560/
+    pubmed: https://pubmed.ncbi.nlm.nih.gov/38384560/
     notes: 
     image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10878910/bin/gr1.jpg\
 

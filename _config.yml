@@ -1,1 +1,76 @@
-theme: jekyll-theme-slate
+# Basic Information 
+title: Monica K Lieng, MD PhD
+position: Resident Physician - Ophthalmology
+email: monica_lieng@brown.edu
+city: Providence, RI
+university: Brown University
+affiliation: Lifespan, VA, WIH, Hasbro
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Monica K Lieng
+description: Ophthalmology Resident
+canonical: https://minimal-light-theme.yliu.me/
+
+# Biographic information
+pronouns         : # example: "she/her"  
+bio              : "Short biography for the left-hand sidebar"
+location         : "Earth"
+employer         : "Red Brick University"
+
+
+
+
+# Academic websites
+arxiv            : # URL - Update with the correct link to your profile
+googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+orcid            : "http://orcid.org/yourorcidurl"
+pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+researchgate     : # URL
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/
+cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/
+#linkedin: https://www.linkedin.com/
+#twitter: https://twitter.com/
+
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/WIO_headshot_MKLieng_square.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+google_analytics: UA-111540567-4
+
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+remote_theme: yaoyao-liu/minimal-light
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/

@@ -13,13 +13,30 @@ main:
 
     #Lieng MK, Emami-Naeini P, Lee SC, Alber S, Yiu G. Teleophthalmology provides earlier eye care access for patients with newly-diagnosed diabetes. Heliyon. 2024 Feb 10;10(4):e25845. doi: 10.1016/j.heliyon.2024.e25845. PMID: 38384560; PMCID: PMC10878910.
 
+  - title: Trends in Remote Retinal Imaging Utilization and Payments in the United States
+    authors: Lee SC*, <strong>Lieng MK*</strong>, Alber S, Mehta N, Emami-Naeini P, Yiu G. 
+    journal_short: Ophthalmology
+    journal: Ophthalmology 2022
+    pdf: ./assets/files/2024-09_Lieng_CV.pdf
+    pubmed: https://pubmed.ncbi.nlm.nih.gov/34653417/
+    notes: Co-first author
+    image: https://www.aaojournal.org/cms/10.1016/j.ophtha.2021.10.010/asset/55be3938-4b1d-429a-8f33-0566f76e12cd/main.assets/gr1_lrg.jpg
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Sex Differences in Salaries of Academic Ophthalmologists in the United States. 
+    authors: Emami-Naeini P, <strong>Lieng MK</strong>, Chen J. 
+    journal_short: JAMA Ophthalmology
+    journal: JAMA Ophthalmology 2022
+    pdf: ./assets/files/2022_jamaophthalmology_emaminaeini_gender_pay.pdf
+    pubmed: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8949729/#:~:text=Using%20regression%20models%20to%20adjust,%2C%20%244600%2D%2496%20000).
+    notes: 
+    image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8949729/bin/jamaophthalmol-e220376-g002.jpg
+
+
+  - title: Emergency Department Pediatric Readiness and Potentially Avoidable Transfers. 
+    authors: <strong>Lieng MK</strong>, Marcin JP, Dayal P, Tancredi DJ, Swanson MB, Haynes SC, Romano PS, Sigal IS, Rosenthal JL
+    journal_short: JPed
+    journal: Journal of Pediatrics, 2021
+    pdf: https://www.jpeds.com/action/showPdf?pii=S0022-3476%2821%2900444-3
+    pubmed: https://pubmed.ncbi.nlm.nih.gov/34000284/
+    notes: 
+    image: https://www.jpeds.com/cms/10.1016/j.jpeds.2021.05.021/asset/ec29ee3d-85ba-4c73-b94f-e2b705cf7637/main.assets/fx3.jpg
